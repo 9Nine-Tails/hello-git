@@ -31,4 +31,4 @@ Git commands
 	
 	• Git checkout branchName = switch to specified branch
 	
-  • Git merge branchName = merge selected branch to current working branch
+        • Git merge branchName = merge selected branch to current working branch
