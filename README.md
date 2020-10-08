@@ -1,5 +1,5 @@
-# hello-git
-This repo was made to learn git.
+# Hello-git
+This repo is built to learn git.
 
 # my git notes
 **Git commands**<br />
